@@ -1,0 +1,6 @@
+{
+  "name": "Claude Reflect",
+  "description": "A trust-calibration layer for Claude designed to identify missing context, reveal hidden assumptions, and stress-test strategic recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
